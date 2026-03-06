@@ -1,28 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4f2ce6c-3cbd-427c-8baf-553acadbd62b" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/DESAFIOS GUANABARA - MUNDO 1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DESAFIOS GUANABARA - MUNDO 1.iml" afterDir="false" />
+    <list default="true" id="e4f2ce6c-3cbd-427c-8baf-553acadbd62b" name="Changes" comment="Continuar exercício 18">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 10.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 11.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 12.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 13.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 13.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 14.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 14.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 15.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 15.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 16.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 16.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 17.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 17.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DESAFIO 18.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 18.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 5.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 6.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 7.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 7.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 8.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 8.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 9.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 9.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,18 +20,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "LucasGroth"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LucasGroth&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/LucasGroth/GUANABARA-PYTHON-MUNDO1.git",
-    "accountId": "6efc544c-69b0-4307-b696-f7023cb7465a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/LucasGroth/GUANABARA-PYTHON-MUNDO1.git&quot;,
+    &quot;accountId&quot;: &quot;6efc544c-69b0-4307-b696-f7023cb7465a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -71,6 +52,7 @@
     "Python.DESAFIO 15.executor": "Run",
     "Python.DESAFIO 16.executor": "Run",
     "Python.DESAFIO 17.executor": "Run",
+    "Python.DESAFIO 18.executor": "Run",
     "Python.DESAFIO 2.executor": "Run",
     "Python.DESAFIO 3.executor": "Run",
     "Python.DESAFIO 4.executor": "Run",
@@ -106,12 +88,26 @@
       <option name="presentableId" value="Default" />
       <updated>1772622126482</updated>
       <workItem from="1772622127499" duration="12199000" />
-      <workItem from="1772641765001" duration="6363000" />
+      <workItem from="1772641765001" duration="7182000" />
+      <workItem from="1772794305538" duration="1858000" />
     </task>
+    <task id="LOCAL-00001" summary="Continuar exercício 18">
+      <option name="closed" value="true" />
+      <created>1772652368987</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772652368987</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Continuar exercício 18" />
+    <option name="LAST_COMMIT_MESSAGE" value="Continuar exercício 18" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -140,6 +136,7 @@
     <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$DESAFIO_10.coverage" NAME="DESAFIO 10 Coverage Results" MODIFIED="1772632105289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$DESAFIO_1.coverage" NAME="DESAFIO 1 Coverage Results" MODIFIED="1772622220010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$DESAFIO_4.coverage" NAME="DESAFIO 4 Coverage Results" MODIFIED="1772627152220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$DESAFIO_18.coverage" NAME="DESAFIO 18 Coverage Results" MODIFIED="1772796315613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$DESAFIO_15.coverage" NAME="DESAFIO 15 Coverage Results" MODIFIED="1772650060978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$DESAFIO_11.coverage" NAME="DESAFIO 11 Coverage Results" MODIFIED="1772633119769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
