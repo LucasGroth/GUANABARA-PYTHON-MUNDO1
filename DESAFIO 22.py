@@ -1,5 +1,5 @@
-#Um programa  que leia o nome do usuário e mostre, com todas a letras maiúsculas, todas minusculas, quantas letras ao
-#todo, quantas letras sem contar espaço
+#Um programa  que leia o nome do usuário e mostre, com todas a letras maiúsculas, todas minusculas,
+# quantas letras no total e quantas letras tem no primeiro nome.
 nome=input('Digite o seu nome:').strip()
 print(nome.upper())
 print(nome.lower())
