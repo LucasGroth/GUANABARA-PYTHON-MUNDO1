@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e4f2ce6c-3cbd-427c-8baf-553acadbd62b" name="Changes" comment="Exercícios de condições">
+    <list default="true" id="e4f2ce6c-3cbd-427c-8baf-553acadbd62b" name="Changes" comment="Encerrando mundo 1">
+      <change afterPath="$PROJECT_DIR$/Aplicando cores no terminal.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 34.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 34.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DESAFIO 35.py" beforeDir="false" afterPath="$PROJECT_DIR$/DESAFIO 35.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.AULA 10.executor": "Run",
+    "Python.Aplicando cores no terminal.executor": "Run",
     "Python.Aula 09 -exercício.executor": "Run",
     "Python.DESAFIO 1.executor": "Run",
     "Python.DESAFIO 10.executor": "Run",
@@ -205,7 +205,7 @@
       <workItem from="1773582316037" duration="7321000" />
       <workItem from="1773687842440" duration="606000" />
       <workItem from="1773856958151" duration="6894000" />
-      <workItem from="1773921540529" duration="5289000" />
+      <workItem from="1773921540529" duration="7271000" />
     </task>
     <task id="LOCAL-00001" summary="Continuar exercício 18">
       <option name="closed" value="true" />
@@ -239,7 +239,15 @@
       <option name="project" value="LOCAL" />
       <updated>1773863886245</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Encerrando mundo 1">
+      <option name="closed" value="true" />
+      <created>1773927049787</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1773927049787</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -250,7 +258,8 @@
     <MESSAGE value="Continuando exercícios" />
     <MESSAGE value="aula 10 e exercícios" />
     <MESSAGE value="Exercícios de condições" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercícios de condições" />
+    <MESSAGE value="Encerrando mundo 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Encerrando mundo 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -268,6 +277,7 @@
     <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$DESAFIO_33.coverage" NAME="DESAFIO 33 Coverage Results" MODIFIED="1773863560305" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GUANABARA_PYTHON_MUNDO1$DESAFIO_24.coverage" NAME="DESAFIO 24 Coverage Results" MODIFIED="1773589601375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$DESAFIO_21.coverage" NAME="DESAFIO 21 Coverage Results" MODIFIED="1772799729951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$Aplicando_cores_no_terminal.coverage" NAME="Aplicando cores no terminal Coverage Results" MODIFIED="1773927976004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$DESAFIO_7.coverage" NAME="DESAFIO 7 Coverage Results" MODIFIED="1772628907997" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DESAFIOS_GUANABARA___MUNDO_1$DESAFIO_13.coverage" NAME="DESAFIO 13 Coverage Results" MODIFIED="1772648448790" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/GUANABARA_PYTHON_MUNDO1$DESAFIO_26.coverage" NAME="DESAFIO 26 Coverage Results" MODIFIED="1773590597062" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
